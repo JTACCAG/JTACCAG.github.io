@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "email": "jtaccag@gmail.com",
+    "fullname": "Jesus Tacca",
+    "password": "123456",
+    "roles": ["admin", "regular"]
+  }
+]
