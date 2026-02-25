@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Taladro Percutor Bosch GSB 185-LI 18V + 1 Batería 18V GBA 2.0Ah + 23 Accesorios",
+    "brand": {
+      "id": 1,
+      "name": "Bosch"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "name": "Herramientas manuales"
+      },
+      {
+        "id": 2,
+        "name": "Taladro"
+      }
+    ],
+    "description": "¡Potencia tus proyectos con el Taladro percutor Bosch GSB 185-LI! Esta herramienta profesional, con un torque de 65, es perfecta para tus trabajos de bricolaje y construcción. Su diseño compacto te permite llegar a lugares estrechos con facilidad, y su velocidad de 1900 rpm te asegura eficiencia. ¡No esperes más para tener este taladro en tus manos!",
+    "attributes": [
+      {
+        "name": "Color",
+        "value": "Blanco"
+      }
+    ],
+    "material": {
+      "id": 1,
+      "name": "Madera pino"
+    },
+    "weight": 145.45,
+    "height": 140,
+    "characteristics": ["Separador de ambientes"],
+    "warranty": "6 meses",
+    "observations": ["No exponer al sol"],
+    "usageRecommendations": ["Verificar las medidas del espacio donde se instalará el producto."],
+    "usageWarning": ["Alejar de zonas bajas"],
+    "model": "basic",
+    "numberPieces": 45,
+    "images": [],
+    "price": 454.5
+  }
+]

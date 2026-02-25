@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Bosch",
+    "image": "https://1000marcas.net/wp-content/uploads/2020/01/Logo-Bosch.png",
+    "description": "Herramientas eléctricas, accesorios."
+  },
+  {
+    "id": 2,
+    "name": "DeWalt",
+    "image": "https://grabo.sfo2.digitaloceanspaces.com/dealers/dealers/64acf815-eccf-4210-bad3-2b6c40377044.svg",
+    "description": "Herramientas profesionales de alto rendimiento."
+  },
+  {
+    "id": 3,
+    "name": "Stanley",
+    "image": "https://ediselts.com/cdn/shop/collections/Stanley-Logo.png?v=1722025137",
+    "description": "Herramientas manuales y accesorios."
+  },
+  {
+    "id": 4,
+    "name": "Bahco",
+    "image": "https://www.provinsur.com/wp-content/uploads/2022/12/lOGO-Bahco-Peru.jpg",
+    "description": "Herramientas manuales de calidad."
+  },
+  {
+    "id": 5,
+    "name": "Kamasa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMaPArhdj4VGCg9bspk5xCJOjF30qpuuUU1g&s",
+    "description": "Herramientas manuales."
+  },
+  {
+    "id": 6,
+    "name": "Pfeil",
+    "image": "https://www.provinsur.com/wp-content/uploads/2022/12/lOGO-Bahco-Peru.jpg",
+    "description": "Cinceles y herramientas de carpintería (más visible en suplementos)."
+  },
+  {
+    "id": 7,
+    "name": "Truper",
+    "image": "https://paititi.pe/images/feature_variant/2/truper.png",
+    "description": "Herramientas manuales y de jardín (muy común en ferreterías peruanas)."
+  }
+]
