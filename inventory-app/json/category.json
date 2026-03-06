@@ -1,6 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Herramientas manuales"
+    "name": "Herramientas eléctricas",
+    "description": "Herramientas que funcionan con energía eléctrica para trabajos profesionales y domésticos.",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "name": "Herramientas manuales",
+    "description": "Herramientas de uso manual como llaves, destornilladores y alicates.",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "name": "Taladros",
+    "description": "Taladros eléctricos y percutores para perforación en diferentes materiales.",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "name": "Amoladoras",
+    "description": "Herramientas eléctricas para corte y desbaste de metal y otros materiales.",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "name": "Sierras",
+    "description": "Sierras circulares, caladoras y otras herramientas para corte.",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "name": "Compresores de aire",
+    "description": "Equipos de aire comprimido para inflado, pintura y herramientas neumáticas.",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "name": "Llaves y dados",
+    "description": "Herramientas manuales para ajuste y aflojado de tuercas y tornillos.",
+    "status": 0
+  },
+  {
+    "id": 8,
+    "name": "Multiherramientas",
+    "description": "Herramientas eléctricas versátiles con múltiples funciones.",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "name": "Accesorios",
+    "description": "Accesorios para herramientas como brocas, discos y puntas.",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "name": "Equipos de medición",
+    "description": "Instrumentos para medición como niveles, cintas métricas y calibradores.",
+    "status": 0
   }
 ]

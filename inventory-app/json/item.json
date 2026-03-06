@@ -37,6 +37,405 @@
     "model": "basic",
     "numberPieces": 45,
     "images": [],
-    "price": 454.5
+    "price": 454.5,
+    "SKU": "16H9UR6",
+    "stock": 46,
+    "status": 1
+  },
+  {
+    "id": 2,
+    "name": "Taladro Percutor Makita HP1630 710W 13mm",
+    "brand": {
+      "id": 2,
+      "name": "Makita"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "name": "Herramientas eléctricas"
+      },
+      {
+        "id": 2,
+        "name": "Taladro"
+      }
+    ],
+    "description": "Taladro percutor Makita de alto rendimiento, ideal para trabajos profesionales y domésticos. Cuenta con motor de 710W y portabrocas de 13mm.",
+    "attributes": [
+      {
+        "name": "Color",
+        "value": "Azul"
+      }
+    ],
+    "material": {
+      "id": 2,
+      "name": "Metal y plástico reforzado"
+    },
+    "weight": 2,
+    "height": 210,
+    "characteristics": ["Velocidad variable", "Función percutora"],
+    "warranty": "12 meses",
+    "observations": ["Usar con protección ocular"],
+    "usageRecommendations": ["No forzar el motor durante trabajos prolongados"],
+    "usageWarning": ["Desconectar antes de cambiar accesorios"],
+    "model": "HP1630",
+    "numberPieces": 1,
+    "images": [],
+    "price": 389.9,
+    "SKU": "16H9UR6",
+    "stock": 7,
+    "status": 4
+  },
+  {
+    "id": 3,
+    "name": "Amoladora Angular DeWalt DWE402 4-1/2\"800W",
+    "brand": { "id": 3, "name": "DeWalt" },
+    "categories": [
+      { "id": 3, "name": "Herramientas eléctricas" },
+      { "id": 4, "name": "Amoladora" }
+    ],
+    "description": "Amoladora compacta DeWalt de 800W,ideal para corte y desbaste de metal con alto control y seguridad.",
+    "attributes": [{ "name": "Color", "value": "Amarillo" }],
+    "material": { "id": 3, "name": "Metal" },
+    "weight": 1.8,
+    "height": 120,
+    "characteristics": ["Arranquesuave", "Bloqueodeeje"],
+    "warranty": "12meses",
+    "observations": ["Nousardiscosdañados"],
+    "usageRecommendations": ["Usardiscoscompatibles"],
+    "usageWarning": ["Riesgodecorte"],
+    "model": "DWE402",
+    "numberPieces": 1,
+    "images": [],
+    "price": 299,
+    "SKU": "16H9UR6",
+    "stock": 84,
+    "status": 0
+  },
+  {
+    "id": 4,
+    "name": "Martillo Rotativo Stanley SHR 263K 800W SDSPlus",
+    "brand": { "id": 4, "name": "Stanley" },
+    "categories": [
+      { "id": 1, "name": "Herramientas eléctricas" },
+      { "id": 5, "name": "Martillorotativo" }
+    ],
+    "description": "Martillo rotativo Stanley con sistema SDSPlus,ideal para perforaciones en concreto y mampostería.",
+    "attributes": [{ "name": "Color", "value": "Amarillo" }],
+    "material": { "id": 4, "name": "Aceroyplástico" },
+    "weight": 2.6,
+    "height": 230,
+    "characteristics": ["3modosdeuso", "SDSPlus"],
+    "warranty": "12meses",
+    "observations": ["LubricarelsistemaSDSperiódicamente"],
+    "usageRecommendations": ["Utilizarbrocasadecuadas"],
+    "usageWarning": ["Vibraciónprolongada"],
+    "model": "SHR263K",
+    "numberPieces": 1,
+    "images": [],
+    "price": 459,
+    "SKU": "16H9UR6",
+    "stock": 83,
+    "status": 1
+  },
+  {
+    "id": 5,
+    "name": "SierraCircularBlack+DeckerCS10047-1/4\" 1400W",
+    "brand": {
+      "id": 5,
+      "name": "Black+Decker"
+    },
+    "categories": [
+      {
+        "id": 3,
+        "name": "Herramientas eléctricas"
+      },
+      {
+        "id": 6,
+        "name": "Sierra circular"
+      }
+    ],
+    "description": "Sierra circular potente y precisa, ideal para cortes rectos en madera y derivados.",
+    "attributes": [
+      {
+        "name": "Color",
+        "value": "Naranja"
+      }
+    ],
+    "material": {
+      "id": 5,
+      "name": "Plástico y acero"
+    },
+    "weight": 4.1,
+    "height": 250,
+    "characteristics": ["Guía ajustable", "Protector de disco"],
+    "warranty": "6 meses",
+    "observations": ["No mojar el equipo"],
+    "usageRecommendations": ["Ajustar profundidad antes de cortar"],
+    "usageWarning": ["Riesgo de corte severo"],
+    "model": "CS1004",
+    "numberPieces": 1,
+    "images": [],
+    "price": 349.5,
+    "SKU": "16H9UR6",
+    "stock": 67,
+    "status": 3
+  },
+  {
+    "id": 6,
+    "name": "Juego de Llaves Combinadas Tramontina 12 Piezas",
+    "brand": {
+      "id": 6,
+      "name": "Tramontina"
+    },
+    "categories": [
+      {
+        "id": 7,
+        "name": "Herramientas manuales"
+      },
+      {
+        "id": 8,
+        "name": "Llaves"
+      }
+    ],
+    "description": "Juego de llaves combinadas fabricadas en acero al cromo vanadio, ideales para trabajos mecánicos.",
+    "attributes": [
+      {
+        "name": "Color",
+        "value": "Plateado"
+      }
+    ],
+    "material": {
+      "id": 6,
+      "name": "Acero cromo vanadio"
+    },
+    "weight": 1.9,
+    "height": 60,
+    "characteristics": ["Alta resistencia", "Acabado pulido"],
+    "warranty": "12 meses",
+    "observations": ["Guardar en lugar seco"],
+    "usageRecommendations": ["Usar la medida correcta"],
+    "usageWarning": ["No golpear con martillo"],
+    "model": "Standard",
+    "numberPieces": 12,
+    "images": [],
+    "price": 189.9,
+    "SKU": "16H9UR6",
+    "stock": 8,
+    "status": 0
+  },
+  {
+    "id": 7,
+    "name": "Atornillador Inalámbrico Ryobi ONE+ R18DD3-0 18V (solo cuerpo)",
+    "brand": {
+      "id": 7,
+      "name": "Ryobi"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "name": "Herramientas eléctricas"
+      },
+      {
+        "id": 9,
+        "name": "Atornillador"
+      }
+    ],
+    "description": "Atornillador inalámbrico Ryobi ONE+ ideal para atornillar y perforar en madera y metal. Batería de 18V compatible con toda la línea ONE+.",
+    "attributes": [
+      {
+        "name": "Voltaje",
+        "value": "18V"
+      }
+    ],
+    "material": {
+      "id": 7,
+      "name": "Plástico y metal"
+    },
+    "weight": 1.2,
+    "height": 190,
+    "characteristics": ["Luz LED", "Portabrocas 10mm"],
+    "warranty": "12 meses",
+    "observations": ["No incluye batería ni cargador"],
+    "usageRecommendations": ["Utilizar baterías de la línea ONE+"],
+    "usageWarning": ["No exponer a lluvia"],
+    "model": "R18DD3-0",
+    "numberPieces": 1,
+    "images": [],
+    "price": 259.9,
+    "SKU": "16H9UR6",
+    "stock": 15,
+    "status": 2
+  },
+  {
+    "id": 8,
+    "name": "Sierra Caladora Bosch PST 650 500W",
+    "brand": {
+      "id": 1,
+      "name": "Bosch"
+    },
+    "categories": [
+      {
+        "id": 3,
+        "name": "Herramientas eléctricas"
+      },
+      {
+        "id": 10,
+        "name": "Sierra caladora"
+      }
+    ],
+    "description": "Sierra caladora Bosch potente y fácil de manejar para cortes curvos en madera y plástico.",
+    "attributes": [
+      {
+        "name": "Potencia",
+        "value": "500W"
+      }
+    ],
+    "material": {
+      "id": 8,
+      "name": "Metal y plástico"
+    },
+    "weight": 1.7,
+    "height": 230,
+    "characteristics": ["Cambio de hoja sin herramientas", "Empuñadura ergonómica"],
+    "warranty": "12 meses",
+    "observations": ["No usar sin protección ocular"],
+    "usageRecommendations": ["Ajustar velocidad según material"],
+    "usageWarning": ["Riesgo de corte"],
+    "model": "PST 650",
+    "numberPieces": 1,
+    "images": [],
+    "price": 199,
+    "SKU": "16H9UR6",
+    "stock": 47,
+    "status": 3
+  },
+  {
+    "id": 9,
+    "name": "Compresor de Aire Stanley DN200/8/24 8L",
+    "brand": {
+      "id": 4,
+      "name": "Stanley"
+    },
+    "categories": [
+      {
+        "id": 11,
+        "name": "Equipos de aire"
+      },
+      {
+        "id": 12,
+        "name": "Compresor"
+      }
+    ],
+    "description": "Compresor Stanley de 8 litros, ideal para inflado, pintura con pistola y uso general de aire comprimido.",
+    "attributes": [
+      {
+        "name": "Capacidad",
+        "value": "8L"
+      }
+    ],
+    "material": {
+      "id": 9,
+      "name": "Acero"
+    },
+    "weight": 18,
+    "height": 400,
+    "characteristics": ["Manómetro integrado", "Fácil transporte"],
+    "warranty": "12 meses",
+    "observations": ["No utilizar en ambientes húmedos"],
+    "usageRecommendations": ["Drenar tanque tras uso"],
+    "usageWarning": ["Presión alta"],
+    "model": "DN200/8/24",
+    "numberPieces": 1,
+    "images": [],
+    "price": 499.9,
+    "SKU": "16H9UR6",
+    "stock": 74,
+    "status": 2
+  },
+  {
+    "id": 10,
+    "name": "Multiherramienta Oscilante Black+Decker MT300KA",
+    "brand": {
+      "id": 5,
+      "name": "Black+Decker"
+    },
+    "categories": [
+      {
+        "id": 3,
+        "name": "Herramientas eléctricas"
+      },
+      {
+        "id": 13,
+        "name": "Multiherramienta oscilante"
+      }
+    ],
+    "description": "Multiherramienta oscilante Black+Decker ideal para cortes, lijado y trabajos de precisión.",
+    "attributes": [
+      {
+        "name": "Potencia",
+        "value": "300W"
+      }
+    ],
+    "material": {
+      "id": 10,
+      "name": "Plástico reforzado"
+    },
+    "weight": 1.5,
+    "height": 220,
+    "characteristics": ["Accesorios incluidos", "Cambio rápido"],
+    "warranty": "6 meses",
+    "observations": ["No usar sin guía"],
+    "usageRecommendations": ["Usar accesorios correctos para cada tarea"],
+    "usageWarning": ["Riesgo de corte"],
+    "model": "MT300KA",
+    "numberPieces": 1,
+    "images": [],
+    "price": 179.99,
+    "SKU": "16H9UR6",
+    "stock": 20,
+    "status": 4
+  },
+  {
+    "id": 11,
+    "name": "Taladro Inalámbrico Einhell TE-CD 18/50 Li (Kit)",
+    "brand": {
+      "id": 8,
+      "name": "Einhell"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "name": "Herramientas eléctricas"
+      },
+      {
+        "id": 2,
+        "name": "Taladro"
+      }
+    ],
+    "description": "Taladro atornillador inalámbrico Einhell con batería de 18V y 2 velocidades para versatilidad en múltiples trabajos.",
+    "attributes": [
+      {
+        "name": "Voltaje",
+        "value": "18V"
+      }
+    ],
+    "material": {
+      "id": 7,
+      "name": "Plástico y metal"
+    },
+    "weight": 1.4,
+    "height": 200,
+    "characteristics": ["Control de torque", "2 velocidades"],
+    "warranty": "12 meses",
+    "observations": ["Incluye maletín y accesorios"],
+    "usageRecommendations": ["Cargar baterías antes de usar"],
+    "usageWarning": ["No usar bajo lluvia"],
+    "model": "TE-CD 18/50 Li",
+    "numberPieces": 1,
+    "images": [],
+    "price": 329.5,
+    "SKU": "16H9UR6",
+    "stock": 51,
+    "status": 2
   }
 ]
