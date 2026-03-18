@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Pérez",
+    "availability": "Disponible"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Gómez",
+    "availability": "En ruta"
+  },
+  {
+    "id": 3,
+    "name": "Luis Ramírez",
+    "availability": "Descanso"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "number": "SO-0001",
+    "client": "Obra Residencial Los Pinos",
+    "store": "Tienda Central",
+    "saleType": "Credito",
+    "requestedAt": "2026-03-10T10:30:00",
+    "status": "DRAFT",
+    "details": [
+      {
+        "id": 1,
+        "productId": 1,
+        "quantity": 50,
+        "unitPrice": 30,
+        "subtotal": 1500
+      },
+      {
+        "id": 2,
+        "productId": 2,
+        "quantity": 200,
+        "unitPrice": 1.2,
+        "subtotal": 240
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "number": "SO-0002",
+    "client": "Constructora Andina SAC",
+    "store": "Tienda Norte",
+    "saleType": "Contado",
+    "requestedAt": "2026-03-11T09:00:00",
+    "status": "NEGOTIATING",
+    "details": [
+      {
+        "id": 1,
+        "productId": 3,
+        "quantity": 100,
+        "unitPrice": 45,
+        "subtotal": 4500
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "number": "SO-0003",
+    "client": "Obra Puente Grau",
+    "store": "Tienda Central",
+    "saleType": "Credito",
+    "requestedAt": "2026-03-11T14:20:00",
+    "status": "CONFIRMED",
+    "details": [
+      {
+        "id": 1,
+        "productId": 1,
+        "quantity": 80,
+        "unitPrice": 29,
+        "subtotal": 2320
+      },
+      {
+        "id": 2,
+        "productId": 4,
+        "quantity": 40,
+        "unitPrice": 18,
+        "subtotal": 720
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "number": "SO-0004",
+    "client": "Obra Colegio Nacional",
+    "store": "Tienda Sur",
+    "saleType": "Credito",
+    "requestedAt": "2026-03-12T08:45:00",
+    "status": "PREPARING",
+    "details": [
+      {
+        "id": 1,
+        "productId": 2,
+        "quantity": 500,
+        "unitPrice": 1.1,
+        "subtotal": 550
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "number": "SO-0005",
+    "client": "Edificio Mirador",
+    "store": "Tienda Central",
+    "saleType": "Contado",
+    "requestedAt": "2026-03-12T11:10:00",
+    "status": "IN_TRANSIT",
+    "details": [
+      {
+        "id": 1,
+        "productId": 5,
+        "quantity": 30,
+        "unitPrice": 120,
+        "subtotal": 3600
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "number": "SO-0006",
+    "client": "Obra Condominio Santa Rosa",
+    "store": "Tienda Norte",
+    "saleType": "Credito",
+    "requestedAt": "2026-03-12T16:00:00",
+    "status": "DELIVERED",
+    "details": [
+      {
+        "id": 1,
+        "productId": 3,
+        "quantity": 60,
+        "unitPrice": 47,
+        "subtotal": 2820
+      },
+      {
+        "id": 2,
+        "productId": 4,
+        "quantity": 25,
+        "unitPrice": 20,
+        "subtotal": 500
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "number": "SO-0007",
+    "client": "Proyecto Mall Plaza",
+    "store": "Tienda Central",
+    "saleType": "Credito",
+    "requestedAt": "2026-03-13T08:20:00",
+    "status": "COMPLETED",
+    "details": [
+      {
+        "id": 1,
+        "productId": 1,
+        "quantity": 120,
+        "unitPrice": 28,
+        "subtotal": 3360
+      }
+    ]
+  }
+]

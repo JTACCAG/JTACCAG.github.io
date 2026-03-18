@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "number": "PO-0001",
+    "supplierId": 2,
+    "details": [
+      {
+        "productId": 2,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 1
+      }
+    ],
+    "status": 0,
+    "requestedAt": "2026-03-14T01:44:16.400Z",
+    "createdAt": "2026-03-01T00:44:16.400Z"
+  },
+  {
+    "id": 2,
+    "number": "PO-0002",
+    "createdAt": "2026-03-02T07:16:31.389Z",
+    "status": 1,
+    "supplierId": 1,
+    "details": [
+      {
+        "productId": 2,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 1
+      },
+      {
+        "productId": 4,
+        "quantity": 2,
+        "unitId": 3,
+        "unitPrice": 10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "number": "PO-0003",
+    "supplierId": 3,
+    "createdAt": "2026-03-03T00:00:00.000Z",
+    "requestedAt": "2026-03-17T01:44:16.400Z",
+    "scheduledAt": "2026-03-12T05:00:00.000Z",
+    "status": 2,
+    "address": "Av. Antonio Miró Quesada 425",
+    "details": [
+      {
+        "productId": 4,
+        "quantity": 2,
+        "unitId": 3,
+        "unitPrice": 10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "number": "PO-0004",
+    "supplierId": 4,
+    "createdAt": "2026-03-04T00:00:00.000Z",
+    "requestedAt": "2026-03-17T00:00:00.000Z",
+    "scheduledAt": "2026-03-12T05:00:00.000Z",
+    "status": 3,
+    "details": [
+      {
+        "productId": 4,
+        "quantity": 2,
+        "unitId": 3,
+        "unitPrice": 10
+      }
+    ],
+    "address": "Av. Antonio Miró Quesada 425",
+    "executedAt": "2026-03-18T00:00:00.000Z",
+    "driverId": 2
+  },
+  {
+    "id": 5,
+    "number": "PO-0005",
+    "supplierId": 5,
+    "createdAt": "2026-03-05T00:00:00.000Z",
+    "requestedAt": "2026-03-17T00:00:00.000Z",
+    "scheduledAt": "2026-03-12T05:00:00.000Z",
+    "status": 4,
+    "details": [
+      {
+        "productId": 4,
+        "quantity": 2,
+        "unitId": 3,
+        "unitPrice": 10
+      }
+    ],
+    "address": "Av. Antonio Miró Quesada 425",
+    "executedAt": "2026-03-18T00:00:00.000Z",
+    "pickedUpAt": "2026-03-19T00:00:00.000Z",
+    "driverId": 2
+  },
+  {
+    "id": 6,
+    "number": "PO-0006",
+    "supplierId": 1,
+    "createdAt": "2026-03-06T00:00:00.000Z",
+    "requestedAt": "2026-03-17T00:00:00.000Z",
+    "scheduledAt": "2026-03-12T05:00:00.000Z",
+    "status": 5,
+    "details": [
+      {
+        "productId": 4,
+        "quantity": 2,
+        "unitId": 3,
+        "unitPrice": 10
+      }
+    ],
+    "address": "Av. Antonio Miró Quesada 425",
+    "executedAt": "2026-03-18T00:00:00.000Z",
+    "warehouseId": 1,
+    "pickedUpAt": "2026-03-19T00:00:00.000Z",
+    "driverId": 2
+  },
+  {
+    "id": 7,
+    "number": "PO-0007",
+    "supplierId": 2,
+    "createdAt": "2026-03-07T00:00:00.000Z",
+    "requestedAt": "2026-03-17T00:00:00.000Z",
+    "scheduledAt": "2026-03-12T05:00:00.000Z",
+    "status": 6,
+    "details": [
+      {
+        "productId": 4,
+        "quantity": 2,
+        "unitId": 3,
+        "unitPrice": 10
+      }
+    ],
+    "address": "Av. Antonio Miró Quesada 425",
+    "executedAt": "2026-03-18T00:00:00.000Z",
+    "warehouseId": 1,
+    "pickedUpAt": "2026-03-19T00:00:00.000Z",
+    "driverId": 2,
+    "receivedAt": "2026-03-19T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "number": "PO-0008",
+    "supplierId": 3,
+    "supplier": {
+      "id": 3,
+      "fullname": "Herramientas del Sur EIRL",
+      "rut": "20678912345",
+      "contactName": "María Torres",
+      "phone": "945678321",
+      "email": "contacto@herrsur.com",
+      "address": "Av. Parra 780",
+      "city": "Arequipa",
+      "country": "Perú"
+    },
+    "createdAt": "2026-02-23T00:00:00.000Z",
+    "requestedAt": "2026-03-06T00:00:00.000Z",
+    "receivedAt": null,
+    "status": 6,
+    "total": 540,
+    "details": []
+  },
+  {
+    "id": 9,
+    "number": "PO-0009",
+    "supplierId": 4,
+    "supplier": {
+      "id": 4,
+      "fullname": "Importaciones FerreMax SAC",
+      "rut": "20567891234",
+      "contactName": "Pedro Salas",
+      "phone": "956789123",
+      "email": "ventas@ferremax.com",
+      "address": "Av. Aviación 2200",
+      "city": "Lima",
+      "country": "Perú"
+    },
+    "createdAt": "2026-02-22T00:00:00.000Z",
+    "requestedAt": "2026-03-06T00:00:00.000Z",
+    "receivedAt": "2026-03-08T00:00:00.000Z",
+    "status": 7,
+    "total": 1780,
+    "details": []
+  },
+  {
+    "id": 10,
+    "number": "PO-0010",
+    "supplierId": 5,
+    "supplier": {
+      "id": 5,
+      "fullname": "Distribuciones Pacífico SAC",
+      "rut": "20432178965",
+      "contactName": "Ana Flores",
+      "phone": "923456789",
+      "email": "ventas@pacifico.com",
+      "address": "Av. Grau 900",
+      "city": "Trujillo",
+      "country": "Perú"
+    },
+    "createdAt": "2026-02-21T00:00:00.000Z",
+    "requestedAt": "2026-03-06T00:00:00.000Z",
+    "receivedAt": "2026-03-09T00:00:00.000Z",
+    "status": 8,
+    "total": 2450,
+    "details": []
+  }
+]
