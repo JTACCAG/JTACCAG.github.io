@@ -40,5 +40,9 @@
     "name": "Truper",
     "image": "https://paititi.pe/images/feature_variant/2/truper.png",
     "description": "Herramientas manuales y de jardín (muy común en ferreterías peruanas)."
+  },
+  {
+    "id": 8,
+    "name": "Einhell"
   }
 ]

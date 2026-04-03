@@ -6,6 +6,7 @@
       "id": 1,
       "name": "Bosch"
     },
+    "brandId": 1,
     "categories": [
       {
         "id": 1,
@@ -37,9 +38,14 @@
     "model": "basic",
     "numberPieces": 45,
     "images": [],
-    "price": 454.5,
-    "SKU": "16H9UR6",
-    "stock": 46,
+    "units": [
+      {
+        "unitId": 2,
+        "stock": 46,
+        "price": 454.5,
+        "SKU": ["16H9UR6"]
+      }
+    ],
     "status": 1
   },
   {
@@ -49,6 +55,7 @@
       "id": 2,
       "name": "Makita"
     },
+    "brandId": 2,
     "categories": [
       {
         "id": 1,
@@ -80,15 +87,21 @@
     "model": "HP1630",
     "numberPieces": 1,
     "images": [],
-    "price": 389.9,
-    "SKU": "16H9UR6",
-    "stock": 7,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 7,
+        "price": 389.9,
+        "SKU": ["16H9UR7"]
+      }
+    ],
     "status": 4
   },
   {
     "id": 3,
     "name": "Amoladora Angular DeWalt DWE402 4-1/2\"800W",
     "brand": { "id": 3, "name": "DeWalt" },
+    "brandId": 3,
     "categories": [
       { "id": 3, "name": "Herramientas eléctricas" },
       { "id": 4, "name": "Amoladora" }
@@ -106,15 +119,21 @@
     "model": "DWE402",
     "numberPieces": 1,
     "images": [],
-    "price": 299,
-    "SKU": "16H9UR6",
-    "stock": 84,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 84,
+        "price": 299,
+        "SKU": ["16H9UR8"]
+      }
+    ],
     "status": 0
   },
   {
     "id": 4,
     "name": "Martillo Rotativo Stanley SHR 263K 800W SDSPlus",
     "brand": { "id": 4, "name": "Stanley" },
+    "brandId": 4,
     "categories": [
       { "id": 1, "name": "Herramientas eléctricas" },
       { "id": 5, "name": "Martillorotativo" }
@@ -132,9 +151,14 @@
     "model": "SHR263K",
     "numberPieces": 1,
     "images": [],
-    "price": 459,
-    "SKU": "16H9UR6",
-    "stock": 83,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 83,
+        "price": 459,
+        "SKU": ["16H9UR9"]
+      }
+    ],
     "status": 1
   },
   {
@@ -144,6 +168,7 @@
       "id": 5,
       "name": "Black+Decker"
     },
+    "brandId": 5,
     "categories": [
       {
         "id": 3,
@@ -175,9 +200,14 @@
     "model": "CS1004",
     "numberPieces": 1,
     "images": [],
-    "price": 349.5,
-    "SKU": "16H9UR6",
-    "stock": 67,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 67,
+        "price": 349.5,
+        "SKU": ["16H9US1"]
+      }
+    ],
     "status": 3
   },
   {
@@ -187,6 +217,7 @@
       "id": 6,
       "name": "Tramontina"
     },
+    "brandId": 6,
     "categories": [
       {
         "id": 7,
@@ -218,9 +249,14 @@
     "model": "Standard",
     "numberPieces": 12,
     "images": [],
-    "price": 189.9,
-    "SKU": "16H9UR6",
-    "stock": 8,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 8,
+        "price": 189.9,
+        "SKU": ["16H9US2"]
+      }
+    ],
     "status": 0
   },
   {
@@ -230,6 +266,7 @@
       "id": 7,
       "name": "Ryobi"
     },
+    "brandId": 7,
     "categories": [
       {
         "id": 1,
@@ -261,9 +298,14 @@
     "model": "R18DD3-0",
     "numberPieces": 1,
     "images": [],
-    "price": 259.9,
-    "SKU": "16H9UR6",
-    "stock": 15,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 15,
+        "price": 259.9,
+        "SKU": ["16H9US3"]
+      }
+    ],
     "status": 2
   },
   {
@@ -273,6 +315,7 @@
       "id": 1,
       "name": "Bosch"
     },
+    "brandId": 1,
     "categories": [
       {
         "id": 3,
@@ -304,9 +347,14 @@
     "model": "PST 650",
     "numberPieces": 1,
     "images": [],
-    "price": 199,
-    "SKU": "16H9UR6",
-    "stock": 47,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 47,
+        "price": 199,
+        "SKU": ["16H9US4"]
+      }
+    ],
     "status": 3
   },
   {
@@ -316,6 +364,7 @@
       "id": 4,
       "name": "Stanley"
     },
+    "brandId": 4,
     "categories": [
       {
         "id": 11,
@@ -347,9 +396,14 @@
     "model": "DN200/8/24",
     "numberPieces": 1,
     "images": [],
-    "price": 499.9,
-    "SKU": "16H9UR6",
-    "stock": 74,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 74,
+        "price": 499.9,
+        "SKU": ["16H9US5"]
+      }
+    ],
     "status": 2
   },
   {
@@ -359,6 +413,7 @@
       "id": 5,
       "name": "Black+Decker"
     },
+    "brandId": 5,
     "categories": [
       {
         "id": 3,
@@ -390,9 +445,14 @@
     "model": "MT300KA",
     "numberPieces": 1,
     "images": [],
-    "price": 179.99,
-    "SKU": "16H9UR6",
-    "stock": 20,
+    "units": [
+      {
+        "unitId": 2,
+        "stock": 20,
+        "price": 179.99,
+        "SKU": ["16H9US6"]
+      }
+    ],
     "status": 4
   },
   {
@@ -402,6 +462,7 @@
       "id": 8,
       "name": "Einhell"
     },
+    "brandId": 8,
     "categories": [
       {
         "id": 1,
@@ -433,9 +494,14 @@
     "model": "TE-CD 18/50 Li",
     "numberPieces": 1,
     "images": [],
-    "price": 329.5,
-    "SKU": "16H9UR6",
-    "stock": 51,
+    "units": [
+      {
+        "unitId": 1,
+        "stock": 51,
+        "price": 329.5,
+        "SKU": ["16H9US7"]
+      }
+    ],
     "status": 2
   }
 ]
