@@ -41,6 +41,7 @@
     "units": [
       {
         "unitId": 2,
+        "weight": 148.6,
         "stock": 46,
         "price": 454.5,
         "SKU": ["16H9UR6"]
@@ -90,6 +91,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 7,
         "price": 389.9,
         "SKU": ["16H9UR7"]
@@ -122,6 +124,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 84,
         "price": 299,
         "SKU": ["16H9UR8"]
@@ -154,6 +157,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 83,
         "price": 459,
         "SKU": ["16H9UR9"]
@@ -203,6 +207,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 67,
         "price": 349.5,
         "SKU": ["16H9US1"]
@@ -252,6 +257,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 8,
         "price": 189.9,
         "SKU": ["16H9US2"]
@@ -301,6 +307,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 15,
         "price": 259.9,
         "SKU": ["16H9US3"]
@@ -350,6 +357,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 47,
         "price": 199,
         "SKU": ["16H9US4"]
@@ -399,6 +407,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 74,
         "price": 499.9,
         "SKU": ["16H9US5"]
@@ -448,6 +457,7 @@
     "units": [
       {
         "unitId": 2,
+        "weight": 148.6,
         "stock": 20,
         "price": 179.99,
         "SKU": ["16H9US6"]
@@ -497,6 +507,7 @@
     "units": [
       {
         "unitId": 1,
+        "weight": 148.6,
         "stock": 51,
         "price": 329.5,
         "SKU": ["16H9US7"]
