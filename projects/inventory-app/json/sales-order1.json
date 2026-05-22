@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1,
+    "number": "SO-0001",
+    "warehouseId": 1,
+    "status": 0,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Central",
+      "warehouse": "Almacen Principal",
+      "phone": "054-111111",
+      "email": "central@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Constructora Los Andes",
+      "address": "Av. Independencia 1200 - Arequipa",
+      "phone": "987111111"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Hino GH - A2B-745",
+      "driver": "Juan Perez",
+      "date": "2026-03-13T09:30:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299.89,
+        "subtotal": 899.67
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Credito",
+    "routeInfo": {
+      "departurePoint": "Almacen Principal",
+      "arrivalPoint": "Obra Residencial Los Pinos"
+    },
+    "observation": "Entrega programada por la mañana.",
+    "customerId": 1
+  },
+
+  {
+    "id": 2,
+    "number": "SO-0002",
+    "warehouseId": 2,
+    "status": 1,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Norte",
+      "warehouse": "Almacen Norte",
+      "phone": "054-222222",
+      "email": "norte@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Proyecto Mirador",
+      "address": "Cerro Colorado - Arequipa",
+      "phone": "987222222"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Volvo VM",
+      "driver": "Luis Mamani",
+      "date": "2026-03-14T10:00:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Contado",
+    "routeInfo": {
+      "departurePoint": "Almacen Norte",
+      "arrivalPoint": "Proyecto Mirador"
+    },
+    "observation": "Cliente solicita descarga rápida.",
+    "customerId": 1
+  },
+
+  {
+    "id": 3,
+    "number": "SO-0003",
+    "warehouseId": 3,
+    "status": 2,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Sur",
+      "warehouse": "Almacen Sur",
+      "phone": "054-333333",
+      "email": "sur@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Obra Colegio Nacional",
+      "address": "Paucarpata - Arequipa",
+      "phone": "987333333"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Mitsubishi Fuso",
+      "driver": "Carlos Quispe",
+      "date": "2026-03-14T14:00:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "address": "Av. Independencia 123, Arequipa",
+    "scheduledAt": "2026-04-01T09:30:00",
+    "driverId": 1,
+    "vehicleId": 1,
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Credito",
+    "routeInfo": {
+      "departurePoint": "Almacen Sur",
+      "arrivalPoint": "Colegio Nacional"
+    },
+    "observation": "Entrega parcial.",
+    "customerId": 1
+  },
+
+  {
+    "id": 4,
+    "number": "SO-0004",
+    "warehouseId": 1,
+    "status": 3,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Central",
+      "warehouse": "Almacen Principal",
+      "phone": "054-111111",
+      "email": "central@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Edificio Santa Maria",
+      "address": "Yanahuara - Arequipa",
+      "phone": "987444444"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Isuzu NPR",
+      "driver": "Miguel Torres",
+      "date": "2026-03-15T08:30:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Contado",
+    "routeInfo": {
+      "departurePoint": "Almacen Principal",
+      "arrivalPoint": "Edificio Santa Maria"
+    },
+    "observation": "Cliente solicita factura.",
+    "customerId": 1
+  },
+
+  {
+    "id": 5,
+    "number": "SO-0005",
+    "warehouseId": 2,
+    "status": 4,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Norte",
+      "warehouse": "Almacen Norte",
+      "phone": "054-222222",
+      "email": "norte@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Obra Puente Grau",
+      "address": "Centro - Arequipa",
+      "phone": "987555555"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Volvo FH",
+      "driver": "Pedro Vargas",
+      "date": "2026-03-15T11:00:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Credito",
+    "routeInfo": {
+      "departurePoint": "Almacen Norte",
+      "arrivalPoint": "Puente Grau"
+    },
+    "observation": "Entrega urgente.",
+    "customerId": 1
+  },
+
+  {
+    "id": 6,
+    "number": "SO-0006",
+    "warehouseId": 3,
+    "status": 5,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Central",
+      "warehouse": "Almacen Principal",
+      "phone": "054-111111",
+      "email": "central@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Obra Los Álamos",
+      "address": "Sachaca - Arequipa",
+      "phone": "987666666"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Hino 500",
+      "driver": "Ricardo Ramos",
+      "date": "2026-03-16T09:00:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Contado",
+    "routeInfo": {
+      "departurePoint": "Almacen Principal",
+      "arrivalPoint": "Los Álamos"
+    },
+    "observation": "",
+    "customerId": 1
+  },
+
+  {
+    "id": 7,
+    "number": "SO-0007",
+    "warehouseId": 1,
+    "status": 6,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Sur",
+      "warehouse": "Almacen Sur",
+      "phone": "054-333333",
+      "email": "sur@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Condominio Valle Verde",
+      "address": "Cayma - Arequipa",
+      "phone": "987777777"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Foton Auman",
+      "driver": "Jose Huanca",
+      "date": "2026-03-16T15:00:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Credito",
+    "routeInfo": {
+      "departurePoint": "Almacen Sur",
+      "arrivalPoint": "Valle Verde"
+    },
+    "observation": "Coordinar con vigilante.",
+    "customerId": 1
+  },
+
+  {
+    "id": 8,
+    "number": "SO-0008",
+    "warehouseId": 2,
+    "status": 1,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Norte",
+      "warehouse": "Almacen Norte",
+      "phone": "054-222222",
+      "email": "norte@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Proyecto Industrial Arequipa",
+      "address": "Parque Industrial",
+      "phone": "987888888"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Scania P360",
+      "driver": "Mario Delgado",
+      "date": "2026-03-17T08:00:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Credito",
+    "routeInfo": {
+      "departurePoint": "Almacen Norte",
+      "arrivalPoint": "Parque Industrial"
+    },
+    "observation": "Cliente pidió verificación de carga.",
+    "customerId": 1
+  },
+
+  {
+    "id": 9,
+    "number": "SO-0009",
+    "warehouseId": 3,
+    "status": 2,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Central",
+      "warehouse": "Almacen Principal",
+      "phone": "054-111111",
+      "email": "central@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Obra Hospital Regional",
+      "address": "Cerro Colorado",
+      "phone": "987999999"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Volvo FM",
+      "driver": "David Flores",
+      "date": "2026-03-17T13:30:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Credito",
+    "routeInfo": {
+      "departurePoint": "Almacen Principal",
+      "arrivalPoint": "Hospital Regional"
+    },
+    "observation": "",
+    "customerId": 1
+  },
+
+  {
+    "id": 10,
+    "number": "SO-0010",
+    "warehouseId": 1,
+    "status": 3,
+    "requestedAt": "2026-03-10T09:30:00",
+    "storeInfo": {
+      "store": "Tienda Sur",
+      "warehouse": "Almacen Sur",
+      "phone": "054-333333",
+      "email": "sur@ferreteria.com"
+    },
+    "clientInfo": {
+      "client": "Residencial Las Palmas",
+      "address": "Hunter - Arequipa",
+      "phone": "987000000"
+    },
+    "deliveryInfo": {
+      "unit": "Camion Hino Dutro",
+      "driver": "Andres Soto",
+      "date": "2026-03-18T09:45:00"
+    },
+    "total": 2131.3,
+    "weight": 891.6,
+    "details": [
+      {
+        "itemId": 1,
+        "unitWeight": 148.6,
+        "quantity": 1,
+        "unitId": 2,
+        "unitPrice": 454.5,
+        "subtotal": 454.5
+      },
+      {
+        "itemId": 2,
+        "unitWeight": 297.2,
+        "quantity": 2,
+        "unitId": 1,
+        "unitPrice": 389.9,
+        "subtotal": 779.8
+      },
+      {
+        "itemId": 3,
+        "unitWeight": 445.8,
+        "quantity": 3,
+        "unitId": 1,
+        "unitPrice": 299,
+        "subtotal": 897
+      }
+    ],
+    "notes": "eqef\nafgqggqeg\nag",
+    "saleType": "Contado",
+    "routeInfo": {
+      "departurePoint": "Almacen Sur",
+      "arrivalPoint": "Residencial Las Palmas"
+    },
+    "observation": "Entrega coordinada con maestro de obra.",
+    "customerId": 1
+  }
+]
