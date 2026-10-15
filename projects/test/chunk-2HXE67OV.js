@@ -1,0 +1,1 @@
+import{Ob as o,T as i,oa as a}from"./chunk-MBVSO2PD.js";var t=class n{pending=a(0);isLoading=o(()=>this.pending()>0);show(){this.pending.update(e=>e+1)}hide(){this.pending.update(e=>Math.max(0,e-1))}static \u0275fac=function(d){return new(d||n)};static \u0275prov=i({token:n,factory:n.\u0275fac,providedIn:"root"})};export{t as a};
