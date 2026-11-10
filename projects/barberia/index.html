@@ -1,0 +1,188 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleccionar vista</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #f1f5f9;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 650px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #1e293b;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            color: #64748b;
+            margin-bottom: 35px;
+        }
+
+        .options {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .option {
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 16px;
+            padding: 30px 20px;
+            cursor: pointer;
+            transition: .25s ease;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .option:hover {
+            transform: translateY(-5px);
+            border-color: #2563eb;
+            box-shadow: 0 10px 25px rgba(0,0,0,.08);
+        }
+
+        .icon {
+            height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+            color: #2563eb;
+        }
+
+        .icon svg {
+            width: 85px;
+            height: 85px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #1e293b;
+        }
+
+        .option p {
+            color: #64748b;
+            font-size: 14px;
+            margin-bottom: 25px;
+        }
+
+        .button {
+            display: block;
+            background: #2563eb;
+            color: white;
+            padding: 12px;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+
+        .option:hover .button {
+            background: #1d4ed8;
+        }
+
+        @media (max-width: 480px) {
+            .options {
+                grid-template-columns: 1fr;
+            }
+
+            .option {
+                padding: 20px;
+            }
+
+            .icon {
+                height: 75px;
+            }
+
+            .icon svg {
+                width: 65px;
+                height: 65px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <main class="container">
+
+        <h1>Selecciona una vista</h1>
+
+        <p class="description">
+            Elige cómo deseas acceder a la plataforma
+        </p>
+
+        <div class="options">
+
+            <!-- VISTA WEB -->
+            <a href="/web" class="option">
+
+                <div class="icon">
+                    <svg viewBox="0 0 24 24" fill="none"
+                         stroke="currentColor" stroke-width="1.5">
+                        <rect x="2" y="3" width="20" height="15"
+                              rx="2"/>
+                        <path d="M8 21h8M12 18v3"/>
+                        <path d="M2 8h20"/>
+                    </svg>
+                </div>
+
+                <h2>Vista web</h2>
+
+                <p>
+                    Accede desde una computadora o laptop.
+                </p>
+
+                <span class="button">Ingresar</span>
+
+            </a>
+
+            <!-- VISTA MOVIL -->
+            <a href="/movil" class="option">
+
+                <div class="icon">
+                    <svg viewBox="0 0 24 24" fill="none"
+                         stroke="currentColor" stroke-width="1.5">
+                        <rect x="6" y="2" width="12" height="20"
+                              rx="2"/>
+                        <path d="M11 18h2"/>
+                        <path d="M10 5h4"/>
+                    </svg>
+                </div>
+
+                <h2>Vista móvil</h2>
+
+                <p>
+                    Accede desde un celular o dispositivo móvil.
+                </p>
+
+                <span class="button">Ingresar</span>
+
+            </a>
+
+        </div>
+
+    </main>
+
+</body>
+</html>
